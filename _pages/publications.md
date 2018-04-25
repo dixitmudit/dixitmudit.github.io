@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: double
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
 permalink: /publications/
