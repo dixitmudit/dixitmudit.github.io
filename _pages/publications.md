@@ -24,11 +24,11 @@ Dixit, M.; Weitman, M.; Gao, J.; Major, D. T. Comment on “Substrate Folding Mo
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## 2017
------------------------------------------------------------------------------------------------------------------------------
+
 Schipper, F.; Bouzaglo, H.; Dixit, M.; Erickson, E. M.; Weigel, T.; Talianker, M.; Grinblat, J.; Burstein, L.; Schmidt, M.; Lampert, J.; Erk, C.; Markovsky, B.; Major, D. T.; Aurbach, D. From Surface ZrO₂ Coating to Bulk Zr Doping by High Temperature Annealing of Nickel Rich Materials and their Enhanced Electrochemical Performance in Lithium Ion Batteries. [*Adv. Ener. Mater.* 2017, 1701682.](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201701682)
 
 ----------------------------------------------------------------------------------------------------------------------------
-Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G.,Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **journal cover of issue 23**
+Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **journal cover of issue 23**
 
 ----------------------------------------------------------------------------------------------------------------------------
 Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of Structural Degradation During Cycling and Low Thermal Stability of Ni-rich Layered Transition Metal-Based Electrode Materials. [*J. Phys. Chem. C.* 2017, 121, 22628-22636.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06122)
@@ -45,4 +45,10 @@ Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against
 Promiscuous Natural Product Biosynthesis: The Case of Trichodiene Synthase. [*ACS Catal.*, 2017,7 (1), 812–818](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02584) 
 
 ---------------------------------------------------------------------------------------------------------------------------------
+de la Llave, E.; Talaie, E.; Levi, E.; Kumar, P.; Dixit, M.; Rao, P. T.; Hartmann, P.; Chesneau, F. F.; Major, D. T.; Greenstein, M.; Aurbach, D.; Nazar, L. F. Improving Energy Density and Structural Stability of Manganese Oxide Cathodes for Na-ion Batteries by Structural Lithium Substitution. [*Chem. Mater.* 2016, 28, 9064-9076.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04078) 
+
+----------------------------------------------------------------------------------------------------------------------------------
+Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; Erikson, E. M.; Ghanty, C.; Major, D. T.; Markovsky, B.; Aurbach, D. Stabilizing Nickel-Rich Layered Cathode Materials by a High-Charge Cation Doping Strategy: Zirconium-Doped LiNi0.6Co0.2Mn0.2O2. [*J. Mater. Chem.* A 2016, 4, 16073-16084.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/c6ta06740a#!divAbstract)
+
+______________________________________________________________________________________________________________________________________
 
