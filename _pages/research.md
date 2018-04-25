@@ -8,7 +8,7 @@ categories: pages
 
 # Research Thrusts
 # 1. Computational Catalysis
-## CO2 Conversion to high value chemicals
+## CO<sub>2<sub> Conversion to high value chemicals
 I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
 ### Representaive Pubulication:
