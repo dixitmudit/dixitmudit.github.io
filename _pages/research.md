@@ -1,8 +1,10 @@
 
 # COMPUTATIONAL CATLYSIS
 ## CO2 Conversion to high value chemicals
-Persistently rising levels of carbon dioxide (CO2) in the atmosphere are great concern to the climate changes and global warming issues. Therefore, it is important to identify catalysts and catalyst properties that activate and convert CO2, in order to improve the activity of CO2 conversion reactions. We apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and Design effective catalysts for CO2 reduction to high value chemicals.  
+I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
+### Representaive Pubulications:
+
 ## C-H Activation and Dehydrogentation of Alkanes on Metal Oxides
 Olefins are important chemical building blocks for the production of a wide range of valuable chemicals and plastics. A promising route to produce olefins is the non-oxidative dehydrogenation of alkanes on metal oxides. We provide fundamental insights into the various mechanisms of alkane dehydrogenation on Metal oxides and identify structure-activity relationships, by using Density Functional Theory and Ab-inito Molecular Dynamics calculations.
 {% include figure image_path="/assets/images/Al2.png" %}
