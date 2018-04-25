@@ -1,4 +1,4 @@
-
+---
 layout: single
 title: "Publications"
 excerpt: "History of my publications in various academic journals."
