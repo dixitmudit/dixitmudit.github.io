@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "Research"
+title: "Research Thrusts"
 permalink: /research/
 date: 2018-4-25
 categories: pages
 ---
 
-# Research Thrusts
 ## 1. Computational Catalysis
 ### (i) CO<sub>2</sub> Conversion to high-value chemicals
 I apply Density Functional Theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO<sub>2</sub> reduction to high-value chemicals.  
