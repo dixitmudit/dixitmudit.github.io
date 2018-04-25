@@ -5,9 +5,6 @@ excerpt: "History of my publications in various academic journals."
 permalink: /publications/
 date: 2018-4-23
 categories: pages
-toc: true
-toc_label: "Years"
-toc_icon: "columns"
 ---
 Links and overview images of all of my academic publications.
 
