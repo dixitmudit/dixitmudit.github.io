@@ -71,7 +71,7 @@ ________________________________________________________________________________
  Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract) 
  
  _____________________________________________________________________________________________________________________________________
- ## 2016
+ ## 2015
  
  Singh, V.; Gershinsky, Y.; Kosa, M.; Dixit, M.; Zitoun, D.; Major, D. T. Magnetism in olivine-type LiCo1-xFexPO4 cathode materials: Bridging theory and experiment. [*Phys. Chem. Chem. Phys.* 2015, 17, 31202 - 31215](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/c5cp04871k#!divAbstract) 
  
@@ -85,4 +85,25 @@ ________________________________________________________________________________
 Aurbach, D.; Srur-Lavi, O.; Ghanty, C.; Dixit, M.; Haik, O.; Talianker, M.; Grinblat, J.; Leifer, N.; Lavi, R.; Major, D. T.; Goobes, G.; Zinigrad, E.; Erickson, E.; Kosa, M.; Markovsky, B.; Lampert, J.; Volkov, A.; Shin, J.-Y.; Garsuch, A. Studies of Aluminum-Doped LiNi0.5Co0.2Mn0.3O2: Electrochemical Behavior, Aging, Structural Transformations, and Thermal Characteristics. [*J. Electrochem. Soc.* 2015, 162, A1014-A1027.](http://jes.ecsdl.org/content/162/6/A1014.abstract)
 
 ________________________________________________________________________________________________________________________________________
+## 2014
+Sharma, V.; Dixit, M.; Satsangi, V.S.; Dass, S.; Pal, S.; Shrivasta, R. Photoelectrochemical splitting of water with nanocrystalline Zn1-xMnxO thin films: First-Principle DFT computations supporting the systematic experimental endeavor. [*Int. J. Hydrogen Energy* , 39, 3637-3648 (2014).](https://www.sciencedirect.com/science/article/pii/S036031991303142X)
 
+## 2013
+Kumar, K.; Dixit, M.; Khire, J.M.; Pal, S. Atomistic details of effect of disulfide bond reduction on active site of Phytase B from Aspergillus niger: A MD Study. [Bioinformation. 9(19), 963–967(2013).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867648/)
+
+_________________________________________________________________________________________________________________________________
+## 2012
+Dixit, M.; Ghatak, K.; Maark, T.A.; Ahuja, R.; Pal, S. Scandium Decorated MOF-5 as Potential Candidate for Room Temperature Hydrogen Storage: A Solution for the Clustering Problem in MOFs. [J. Phys. Chem. C, 116, 17336–17342 (2012)](https://pubs.acs.org/doi/abs/10.1021/jp302852h)
+
+______________________________________________________________________________________________________________________________________
+Kumari, N.; Dixit, M.; Roesky, H. W.; Mishra, L., Thiocyanato Bridged Heterodinuclear Complex [Cu(Bpy)2(−NCS)Ru(Bpy)2(NO3)](P F6)2 and Its Binding with Cd (II), Hg (II), Pb (II) and Ag (I) Ions. [In Chemistry for Sustainable Development, Springer: 2012; pp 231-247.](https://link.springer.com/chapter/10.1007%2F978-90-481-8650-1_15)
+
+_______________________________________________________________________________________________________________________________________
+## 2011
+Dixit, M.; Maark, T. A.; Pal, S., Ab-Initio and Periodic DFT Investigation of Hydrogen Storage
+on Light Metal-Decorated MOF-5. [Int. J. Hydrogen Energy 2011, 36, 10816-10827.](https://www.sciencedirect.com/science/article/pii/S0360319911014145)
+
+________________________________________________________________________________________________________________________________________
+## 2009
+Kumari, N.; Prajapati, R.; Dixit, M.; Mishra, L., Selective Binding of Benzoquinone witha Ptii-Cyclophane Constructed on the Skeleton of N, N’-Bis (Salicylidene)- PPhenylenediamine:Synthesis and Spectroscopic Studies. [Indian Journal of Chemistry A 2009, 48, 1644-1651.](http://nopr.niscair.res.in/handle/123456789/6752)
+________________________________________________________________________________________________________________________________________
