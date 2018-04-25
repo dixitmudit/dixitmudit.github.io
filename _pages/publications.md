@@ -28,7 +28,7 @@ Dixit, M.; Weitman, M.; Gao, J.; Major, D. T. Comment on “Substrate Folding Mo
 Schipper, F.; Bouzaglo, H.; Dixit, M.; Erickson, E. M.; Weigel, T.; Talianker, M.; Grinblat, J.; Burstein, L.; Schmidt, M.; Lampert, J.; Erk, C.; Markovsky, B.; Major, D. T.; Aurbach, D. From Surface ZrO₂ Coating to Bulk Zr Doping by High Temperature Annealing of Nickel Rich Materials and their Enhanced Electrochemical Performance in Lithium Ion Batteries. [*Adv. Ener. Mater.* 2017, 1701682.](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201701682)
 
 ----------------------------------------------------------------------------------------------------------------------------
-Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **journal cover of issue 23**
+Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **Featured on the front cover**
 
 ----------------------------------------------------------------------------------------------------------------------------
 Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of Structural Degradation During Cycling and Low Thermal Stability of Ni-rich Layered Transition Metal-Based Electrode Materials. [*J. Phys. Chem. C.* 2017, 121, 22628-22636.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06122)
@@ -38,7 +38,7 @@ Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of 
 Schipper, F; Nayak, P.K. Erickson, E.M; Amalraj, S. F; Lavi, O. S; Rao, P.T; Talianker, M; Grinblat, J; Sclar, H; Breuer, O; Julien, C.M; Munichandraiah, NKovacheva, D; Dixit, M; Major, D.T; Markovsky, B; Aurbach, D. Study of Cathode Materials for Lithium-Ion Batteries: Recent Progress and New Challenges. [*Inorganics* 2017, 5(2), 32](http://www.mdpi.com/2304-6740/5/2/32/htm) 
 
 -------------------------------------------------------------------------------------------------------------------------------
-Dixit, M; Markovsky, B; Aurbach, D; Major, D.T. Unraveling the Effects of Al Doping on the Electrochemical Properties of LiN i0.5Co0.2Mn0.3O2 Using First Principles. [*J. Electrochem. Soc.* ,2017, 164 (1) A6359-A636] (http://jes.ecsdl.org/content/164/1/A6359.short) **Featured on the front cover**
+Dixit, M; Markovsky, B; Aurbach, D; Major, D.T. Unraveling the Effects of Al Doping on the Electrochemical Properties of LiN i0.5Co0.2Mn0.3O2 Using First Principles. [*J. Electrochem. Soc.* ,2017, 164 (1) A6359-A636](http://jes.ecsdl.org/content/164/1/A6359.short) **Featured on the front cover**
 
 -------------------------------------------------------------------------------------------------------------------------------
 Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against Fidelity in
@@ -53,3 +53,12 @@ Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; E
 
 ______________________________________________________________________________________________________________________________________
 
+Das, S.; Dixit, M.; Major, D. T. First Principles Model Calculations of the Biosynthetic Pathway in Selinadiene Synthase. [*Bioorg. Med. Chem.* 2016, 24, 4867-4870.](http://www.sciencedirect.com/science/article/pii/S096808961630493X) 
+______________________________________________________________________________________________________________________________________
+Dixit, M.; Das, S.; Mhashal, A. R.; Eitan, R.; Major, D. T. Practical aspects of multiscale classical and quantum simulations of enzyme reactions. [*Methods in Enzymology* 2016, 577, 251-286 (Invited review)](http://www.sciencedirect.com/science/article/pii/S0076687916300817) 
+_____________________________________________________________________________________________________________________________________
+Levi Hevroni, B.; Major, D. T.; Dixit, M.; Mhashal, A. R.; Das, S.; Fischer, B. Nucleoside-2’,3’/3’,5’-Bis(thio)phosphate are Zn(II)/Cu(II)-Chelators Capable of Disassembly of Amyloid Beta(1-42)–Zn(II)/Cu(II) Aggregates via Zn(II)/Cu(II)-chelation. [*Org. Biomol. Chem.* 2016, 14, 4640-4653.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/OB/C6OB00613B)
+______________________________________________________________________________________________________________________________________
+Dixit, M.; Major, D. T.; Pal, S. Hydrogen adsorption in ZIF-7: A DFT and ab-initio molecular dynamics study. [*Chem. Phys. Lett.* 2016, 651, 178-182.](http://www.sciencedirect.com/science/article/pii/S0009261416301397) 
+______________________________________________________________________________________________________________________________________
+ Singh, V.; Dixit, M.; Kosa, M.; Major, D. T.; Levi, E.; Aurbach, D. Is it true that the normal valence-length correlation is irrelevant for metal-metal bonds? [*Chem. Eur. J.* 2016, 22, 5269-5276.](http://onlinelibrary.wiley.com/doi/10.1002/chem.201504161/full)
