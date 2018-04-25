@@ -31,7 +31,7 @@ Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of 
 {% include figure image_path="/assets/images/JMCA.gif" %}
 Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; Erikson, E. M.; Ghanty, C.; Major, D. T.; Markovsky, B.; Aurbach, D. Stabilizing Nickel-Rich Layered Cathode Materials by a High-Charge Cation Doping Strategy: Zirconium-Doped LiNi0.6Co0.2Mn0.2O2. [*J. Mater. Chem.* A 2016, 4, 16073-16084.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/c6ta06740a#!divAbstract)
 
-{% include figure image_path="/assets/images/NQE.png" %]
+{% include figure image_path="/assets/images/NQE.png" %}
  Dixit, M.; Engel, H.; Eitan, R.; Aurbach, D.; Levi, M.; Kosa, M.; Major, D. T. Classical and Quantum Modeling of Li and Na Diffusion in FePO4. [*J. Phys. Chem. C* 2015, 119, 15801-15809.](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b00405)
  
  
