@@ -1,4 +1,13 @@
 
+---
+layout: single
+title: "Research"
+permalink: /research/
+date: 2018-4-25
+categories: pages
+---
+
+# Research Thrusts
 # COMPUTATIONAL CATLYSIS
 ## CO2 Conversion to high value chemicals
 I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
