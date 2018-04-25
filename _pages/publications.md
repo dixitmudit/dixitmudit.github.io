@@ -45,6 +45,7 @@ Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against
 Promiscuous Natural Product Biosynthesis: The Case of Trichodiene Synthase. [*ACS Catal.*, 2017,7 (1), 812–818](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02584) 
 
 ---------------------------------------------------------------------------------------------------------------------------------
+## 2016
 de la Llave, E.; Talaie, E.; Levi, E.; Kumar, P.; Dixit, M.; Rao, P. T.; Hartmann, P.; Chesneau, F. F.; Major, D. T.; Greenstein, M.; Aurbach, D.; Nazar, L. F. Improving Energy Density and Structural Stability of Manganese Oxide Cathodes for Na-ion Batteries by Structural Lithium Substitution. [*Chem. Mater.* 2016, 28, 9064-9076.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04078) 
 
 ----------------------------------------------------------------------------------------------------------------------------------
