@@ -3,22 +3,33 @@
 ## CO2 Conversion to high value chemicals
 I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
-### Representaive Pubulications:
-
+### Representaive Pubulication:
+Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **Featured on the front cover**
 ## C-H Activation and Dehydrogentation of Alkanes on Metal Oxides
 Olefins are important chemical building blocks for the production of a wide range of valuable chemicals and plastics. A promising route to produce olefins is the non-oxidative dehydrogenation of alkanes on metal oxides. We provide fundamental insights into the various mechanisms of alkane dehydrogenation on Metal oxides and identify structure-activity relationships, by using Density Functional Theory and Ab-inito Molecular Dynamics calculations.
 {% include figure image_path="/assets/images/Al2.png" %}
-
-#Electrochemical Energy Storage
+# ELECTROCHEMICAL ENERGY STORAGE
 ## Rechargable Li and Na ion Batteries 
 The excellent performance of lithium ion batteries (LIB) has led to a revolution in portable electronic devices, and nowadays LIBs are empowering electric vehicles (EVs). Among the various factors influencing the performance of LIBs, the positive electrode (cathode) material is arguably the most important component, as the nature of the cathode primarily controls the capacity and the stability of LIBs. Recently, lithiated transition metal (TM) oxides of the form Li[NixCoyMnz]O2 (i.e., NCM) emerged as a very promising family of cathode materials for LIB, and one of these materials NCM-333 (LiNi0.33Co0.33Mn0.33O2) is already commercialized. Despite the considerable research and commercialization of Li/NaNiyMnyCozO2 systems, the molecular level understanding is very limited. However, the above information is essential to facilitate engineering of cathodes with higher energy density along with increased stability. To provide such information a comparative study of different Li rich NCMs is required. Using a combined experimental and first-principles theory approach we investigate these materials and the obtained findings are listed below: 
-Key Findings: 
-(i)	Demonstrated a highly stable Li ion battery prototypes consisting of tungsten-stabilized Ni rich cathode material. This development can increase the energy density of Li ion batteries more than 30% above the state of the art without compromising durability. (DOI: 10.1039/C8EE00227D , Energy Environ. Sci., 2018) 
 
+### Key Findings: 
+(i)	Demonstrated a highly stable Li ion battery prototypes consisting of tungsten-stabilized Ni rich cathode material. This development can increase the energy density of Li ion batteries more than 30% above the state of the art without compromising durability. 
+Publication:
+Jun, D. W.; Kim, U. H.; Park, K. J.; Aurbach, D.; Major, D. T.; Goobes, G.; Dixit, M.; Leifer, N.; Wang, C.; Yan, P.; Ahn, D.; Kim, K. H.; Yoon, C. S.; Sun, Y. Y. Pushing the limit of layered transition metal oxide cathodes for high-energy density rechargeable Li ion batteries. [*Energy Environ. Sci.* (2018).](http://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee00227d/unauth#!divAbstract)
+_______________________________________________________________________________________________________________________________________
 (ii)	Developed an accurate funnel-approach to predict complex cationic ordering by employing cheap atomistic simulations. (Phys. Chem. Chem. Phys., 2016, 18, 6799-6812) {% include figure image_path="/assets/images/ewald.png" %}
-(iii)	Explained the reasons for the reduced thermal and cycling stability of NCMs with Ni content and suggested that a strategy of doping NCMs with high-valent cations. (J. Phys. Chem. C, 2017, 121, 22628–22636)
+Publication:
+Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract)
+_____________________________________________________________________________________________________________________________________
+(iii)	Rationalized the reduced thermal and cycling stability of NCMs with Ni content and suggested that a strategy of doping NCMs with high-valent cations. (J. Phys. Chem. C, 2017, 121, 22628–22636)
 {% include figure image_path="/assets/images/TOC_COM.gif" %}
+Publication:
+Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of Structural Degradation During Cycling and Low Thermal Stability of Ni-rich Layered Transition Metal-Based Electrode Materials. [*J. Phys. Chem. C.* 2017, 121, 22628-22636.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06122)
+_______________________________________________________________________________________________________________________________________
 (iv)	Identified a lattice doping as a strategy to improve the structural stability of Ni-rich Li[NixCoyMnz]O2 materials by adopting a combined experimental and first-principles theory approach. (J. Mater. Chem. A, 2016, 4, 16073-16084)
+{% include figure image_path="/assets/images/JMCA.gif" %}
+
+
 (v)	Applied path-integral methods to accounted for Nuclear Quantum Effects (NQEs) of the Li ions for Li-ion batteries (J. Phys. Chem. C, 2015, 119 (28), pp 15801–15809)
 (vi)	Elucidated the role of oxygen redox process in high-capcity (and high-stability) cathode material for sodium ion batteries using combined experimental and first-principles theory approach. (Chem. Mater., 2016, 28 (24), pp 9064–9076)
 #
