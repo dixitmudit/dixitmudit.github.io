@@ -8,7 +8,7 @@ categories: pages
 ---
 
 # Research Thrusts
-# COMPUTATIONAL CATLYSIS
+# 1. Computational Catalysis
 ## CO2 Conversion to high value chemicals
 I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
@@ -17,7 +17,7 @@ Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Eluc
 ## C-H Activation and Dehydrogentation of Alkanes on Metal Oxides
 Olefins are important chemical building blocks for the production of a wide range of valuable chemicals and plastics. A promising route to produce olefins is the non-oxidative dehydrogenation of alkanes on metal oxides. We provide fundamental insights into the various mechanisms of alkane dehydrogenation on Metal oxides and identify structure-activity relationships, by using Density Functional Theory and Ab-inito Molecular Dynamics calculations.
 {% include figure image_path="/assets/images/Al2.png" %}
-# ELECTROCHEMICAL ENERGY STORAGE
+# 2. Electrochemical Energy Storage
 ## Rechargable Li and Na ion Batteries 
 The excellent performance of lithium ion batteries (LIB) has led to a revolution in portable electronic devices, and nowadays LIBs are empowering electric vehicles (EVs). Among the various factors influencing the performance of LIBs, the positive electrode (cathode) material is arguably the most important component, as the nature of the cathode primarily controls the capacity and the stability of LIBs. Recently, lithiated transition metal (TM) oxides of the form Li[NixCoyMnz]O2 (i.e., NCM) emerged as a very promising family of cathode materials for LIB, and one of these materials NCM-333 (LiNi0.33Co0.33Mn0.33O2) is already commercialized. Despite the considerable research and commercialization of Li/NaNiyMnyCozO2 systems, the molecular level understanding is very limited. However, the above information is essential to facilitate engineering of cathodes with higher energy density along with increased stability. To provide such information a comparative study of different Li rich NCMs is required. Using a combined experimental and first-principles theory approach we investigate these materials and the obtained findings are listed below: 
 
@@ -37,4 +37,13 @@ Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; E
  
  de la Llave, E.; Talaie, E.; Levi, E.; Kumar, P.; Dixit, M.; Rao, P. T.; Hartmann, P.; Chesneau, F. F.; Major, D. T.; Greenstein, M.; Aurbach, D.; Nazar, L. F. Improving Energy Density and Structural Stability of Manganese Oxide Cathodes for Na-ion Batteries by Structural Lithium Substitution. [*Chem. Mater.* 2016, 28, 9064-9076.](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b04078)
  
-#
+ 
+ 
+# 3. Enzyme Simulations: Chemical Control in Terpene Synthases:
+Terpene cyclases catalyze the highly stereospecific molding of polyisoprenes into terpenes, which are precursors to most known natural compounds. The isoprenoids are formed via intricate chemical cascades employing rich, yet highly erratic, carbocation chemistry. It is currently not well understood how these biocatalysts achieve chemical control. We illustrated the catalytic control exerted by terpene synthases, and in particular, we discover main features that could be general catalytic tools adopted by other terpenoid cyclases.
+### Representaive Pubulications:
+{% include figure image_path="/assets/images/JACS.png" %]
+Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against Fidelity in
+Promiscuous Natural Product Biosynthesis: The Case of Trichodiene Synthase. [*ACS Catal.*, 2017,7 (1), 812–818](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02584) 
+
+Dixit, M.; Weitman, M.; Gao, J.; Major, D. T. Comment on “Substrate Folding Modes in Trichodiene Synthase: A Determinant of Chemo- and Stereoselectivity”. [*ACS Catalysis* 2018, 8, 1371-1375](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b02823)
