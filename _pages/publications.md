@@ -68,7 +68,15 @@ ________________________________________________________________________________
  Singh, V.; Dixit, M.; Kosa, M.; Major, D. T.; Levi, E.; Aurbach, D. Is it true that the normal valence-length correlation is irrelevant for metal-metal bonds? [*Chem. Eur. J.* 2016, 22, 5269-5276.](http://onlinelibrary.wiley.com/doi/10.1002/chem.201504161/full)
  
  _____________________________________________________________________________________________________________________________________
- Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. Phys. Chem. Chem. Phys. 2016, 18, 6799-6812. http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract 
+ Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract) 
  
  _____________________________________________________________________________________________________________________________________
+ Singh, V.; Gershinsky, Y.; Kosa, M.; Dixit, M.; Zitoun, D.; Major, D. T. Magnetism in olivine-type LiCo1-xFexPO4 cathode materials: Bridging theory and experiment. [*Phys. Chem. Chem. Phys.* 2015, 17, 31202 - 31215](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/c5cp04871k#!divAbstract) 
  
+ ______________________________________________________________________________________________________________________________________
+ Azran, S.; Danino, O.; Förster, D.; Kenigsberg, S.; Reiser, R.; Dixit, M.; Singh, V.; Major, D. T.; Fischer, B. Identification of Highly Promising Anti-Oxidants / Neuroprotectants Based on Nucleoside 5’-Phosphorothioate Scaffold. Synthesis, Activity, and Mechanisms of Action. [J. Med. Chem. 2015, 58, 8427-8443.](http://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.5b00575)
+ 
+ ______________________________________________________________________________________________________________________________________
+ Dixit, M.; Engel, H.; Eitan, R.; Aurbach, D.; Levi, M.; Kosa, M.; Major, D. T. Classical and Quantum Modeling of Li and Na Diffusion in FePO4. [*J. Phys. Chem. C* 2015, 119, 15801-15809.](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b00405)
+ 
+ _______________________________________________________________________________________________________________________________________
