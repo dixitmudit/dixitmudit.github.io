@@ -8,12 +8,12 @@ categories: pages
 
 # Research Thrusts
 # 1. Computational Catalysis
-## CO<sub>2</sub> Conversion to high value chemicals
-I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO2 reduction to high value chemicals.  
+## (i) CO<sub>2</sub> Conversion to high value chemicals
+I apply Density functional theory, Ab-inito Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO<sub>2</sub> reduction to high value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
 ### Representaive Pubulication:
 Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **Featured on the front cover**
-## C-H Activation and Dehydrogentation of Alkanes on Metal Oxides
+## (ii) C-H Activation and Dehydrogentation of Alkanes on Metal Oxides
 Olefins are important chemical building blocks for the production of a wide range of valuable chemicals and plastics. A promising route to produce olefins is the non-oxidative dehydrogenation of alkanes on metal oxides. We provide fundamental insights into the various mechanisms of alkane dehydrogenation on Metal oxides and identify structure-activity relationships, by using Density Functional Theory and Ab-inito Molecular Dynamics calculations.
 {% include figure image_path="/assets/images/Al2.png" %}
 # 2. Electrochemical Energy Storage
