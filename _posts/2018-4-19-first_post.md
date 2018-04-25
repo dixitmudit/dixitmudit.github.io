@@ -4,9 +4,10 @@ title: "Recent work published in Catalysis Science and Technology"
 date: 2018-04-24
 categories: research
 ---
-Our [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) with Masters Student Xi Peng and collaborators from US Naval Research Lab was recently published in Catalysis Science and Technology!
-
-This work on Oxygen Coverage in CO2 reduction on Mo2C is a 2017 Hot Article and featured on the cover of Catalysis Science and Technology.
+## Journal Cover and 2017 Hot Article
+My [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) at [Mpoumpakis Group](http://www.mpourmpakis.com/)titled "Elucidating the role of oxygen coverage in CO<sub>2</sub> reduction on Mo<sub>2</sub>C" been selected as hot article for 2017 and featured in the front cover of Catalysis Science and Technology. You can find the article and cover [here](http://pubs.rsc.org/en/content/articlelanding/2017/cy/c7cy01810j#!divAbstract)
 {% include figure image_path="/assets/images/C7.png" %}
 
+## Journal Cover 
+My work at [Major Group](http://www.themajorgroup.org/) was selected to be higlighted on the front cover of Journal of The Electrochemical Eociety. You can find the cover [here] (http://jes.ecsdl.org/content/164/1.cover-expansion) 
 
