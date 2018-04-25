@@ -1,6 +1,6 @@
 
-## COMPUTATIONAL CATLYSIS
-# CO2 Conversion to high value chemicals
+# COMPUTATIONAL CATLYSIS
+## CO2 Conversion to high value chemicals
 Persistently growing energy demands, depletion of fossil fuel resources and rising levels of carbon dioxide (CO2) in the atmosphere 
 are great concern to the climate changes and global warming issues.Innovative methods for CO2 capture, storage, and utilization 
 are of marked interest for mitigating elevated levels of CO2 in the atmosphere, as CO2 is a major greenhouse gas (GHG). Therefore, 
