@@ -71,6 +71,8 @@ ________________________________________________________________________________
  Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract) 
  
  _____________________________________________________________________________________________________________________________________
+ ## 2016
+ 
  Singh, V.; Gershinsky, Y.; Kosa, M.; Dixit, M.; Zitoun, D.; Major, D. T. Magnetism in olivine-type LiCo1-xFexPO4 cathode materials: Bridging theory and experiment. [*Phys. Chem. Chem. Phys.* 2015, 17, 31202 - 31215](http://pubs.rsc.org/en/Content/ArticleLanding/2015/CP/c5cp04871k#!divAbstract) 
  
  ______________________________________________________________________________________________________________________________________
@@ -80,3 +82,7 @@ ________________________________________________________________________________
  Dixit, M.; Engel, H.; Eitan, R.; Aurbach, D.; Levi, M.; Kosa, M.; Major, D. T. Classical and Quantum Modeling of Li and Na Diffusion in FePO4. [*J. Phys. Chem. C* 2015, 119, 15801-15809.](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b00405)
  
  _______________________________________________________________________________________________________________________________________
+Aurbach, D.; Srur-Lavi, O.; Ghanty, C.; Dixit, M.; Haik, O.; Talianker, M.; Grinblat, J.; Leifer, N.; Lavi, R.; Major, D. T.; Goobes, G.; Zinigrad, E.; Erickson, E.; Kosa, M.; Markovsky, B.; Lampert, J.; Volkov, A.; Shin, J.-Y.; Garsuch, A. Studies of Aluminum-Doped LiNi0.5Co0.2Mn0.3O2: Electrochemical Behavior, Aging, Structural Transformations, and Thermal Characteristics. [*J. Electrochem. Soc.* 2015, 162, A1014-A1027.](http://jes.ecsdl.org/content/162/6/A1014.abstract)
+
+________________________________________________________________________________________________________________________________________
+
