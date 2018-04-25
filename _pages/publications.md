@@ -23,3 +23,8 @@ Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of 
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Schipper, F; Nayak, P.K. Erickson, E.M; Amalraj, S. F; Lavi, O. S; Rao, P.T; Talianker, M; Grinblat, J; Sclar, H; Breuer, O; Julien, C.M; Munichandraiah, NKovacheva, D; Dixit, M; Major, D.T; Markovsky, B; Aurbach, D. Study of Cathode Materials for Lithium-Ion Batteries: Recent Progress and New Challenges. [*Inorganics* 2017, 5(2), 32](http://www.mdpi.com/2304-6740/5/2/32/htm) 
+Dixit, M; Markovsky, B; Aurbach, D; Major, D.T. Unraveling the Effects of Al Doping on the Electrochemical Properties of LiN i0.5Co0.2Mn0.3O2 Using First Principles. [*J. Electrochem. Soc.* ,2017, 164 (1) A6359-A636] (http://jes.ecsdl.org/content/164/1/A6359.short) *Featured on the front cover*
+Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against Fidelity in
+Promiscuous Natural Product Biosynthesis: The Case of Trichodiene Synthase. [*ACS Catal.*, 2017,7 (1), 812–818](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02584) 
+
