@@ -23,8 +23,10 @@ The excellent performance of lithium ion batteries (LIB) has led to a revolution
 ### Representaive Pubulications:
 Jun, D. W.; Kim, U. H.; Park, K. J.; Aurbach, D.; Major, D. T.; Goobes, G.; Dixit, M.; Leifer, N.; Wang, C.; Yan, P.; Ahn, D.; Kim, K. H.; Yoon, C. S.; Sun, Y. Y. Pushing the limit of layered transition metal oxide cathodes for high-energy density rechargeable Li ion batteries. [*Energy Environ. Sci.* (2018).](http://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee00227d/unauth#!divAbstract)
  {% include figure image_path="/assets/images/ewald.png" %}
+ 
 Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract)
 {% include figure image_path="/assets/images/TOC_COM.gif" %}
+
 Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of Structural Degradation During Cycling and Low Thermal Stability of Ni-rich Layered Transition Metal-Based Electrode Materials. [*J. Phys. Chem. C.* 2017, 121, 22628-22636.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06122)
 
 {% include figure image_path="/assets/images/JMCA.gif" %}
