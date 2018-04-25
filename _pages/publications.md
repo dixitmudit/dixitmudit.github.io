@@ -24,4 +24,10 @@ Jun, D. W.; Kim, U. H.; Park, K. J.; Aurbach, D.; Major, D. T.; Goobes, G.; Dixi
 Dixit, M.; Weitman, M.; Gao, J.; Major, D. T. Comment on “Substrate Folding Modes in Trichodiene Synthase: A Determinant of Chemo- and Stereoselectivity”.[*ACS Catalysis* 2018, 8, 1371-1375](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b02823)
 
 ----------------------------------------------------------------------------------------------------------------------------
-Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G.,Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. *Catal. Sci. Tech.* 7, 5521-5529 (2017) (http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract)**journal cover of issue 23**
+Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G.,Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)] (http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract)**journal cover of issue 23**
+
+----------------------------------------------------------------------------------------------------------------------------
+Dixit, M.; Markovsky, B.; Schipper, F.; Aurbach, D.; Major, D. T. The Origin of Structural Degradation During Cycling and Low Thermal Stability of Ni-rich Layered Transition Metal-Based Electrode Materials. [*J. Phys. Chem. C.* 2017, 121, 22628-22636.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b06122)
+
+----------------------------------------------------------------------------------------------------------------------------
+
