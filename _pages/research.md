@@ -42,7 +42,7 @@ Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; E
 # 3. Enzyme Simulations: Chemical Control in Terpene Synthases:
 Terpene cyclases catalyze the highly stereospecific molding of polyisoprenes into terpenes, which are precursors to most known natural compounds. The isoprenoids are formed via intricate chemical cascades employing rich, yet highly erratic, carbocation chemistry. It is currently not well understood how these biocatalysts achieve chemical control. We illustrated the catalytic control exerted by terpene synthases, and in particular, we discover main features that could be general catalytic tools adopted by other terpenoid cyclases.
 ### Representaive Pubulications:
-{% include figure image_path="/assets/images/JACS.png" %]
+{% include figure image_path="/assets/images/JACS.png" %}
 Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against Fidelity in
 Promiscuous Natural Product Biosynthesis: The Case of Trichodiene Synthase. [*ACS Catal.*, 2017,7 (1), 812–818](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02584) 
 
