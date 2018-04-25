@@ -54,11 +54,21 @@ Schipper, F.; Dixit, M.; Kovacheva, D.; Talianker, M.; Haik, O.; Grinblat, Y.; E
 ______________________________________________________________________________________________________________________________________
 
 Das, S.; Dixit, M.; Major, D. T. First Principles Model Calculations of the Biosynthetic Pathway in Selinadiene Synthase. [*Bioorg. Med. Chem.* 2016, 24, 4867-4870.](http://www.sciencedirect.com/science/article/pii/S096808961630493X) 
+
 ______________________________________________________________________________________________________________________________________
 Dixit, M.; Das, S.; Mhashal, A. R.; Eitan, R.; Major, D. T. Practical aspects of multiscale classical and quantum simulations of enzyme reactions. [*Methods in Enzymology* 2016, 577, 251-286 (Invited review)](http://www.sciencedirect.com/science/article/pii/S0076687916300817) 
+
 _____________________________________________________________________________________________________________________________________
 Levi Hevroni, B.; Major, D. T.; Dixit, M.; Mhashal, A. R.; Das, S.; Fischer, B. Nucleoside-2’,3’/3’,5’-Bis(thio)phosphate are Zn(II)/Cu(II)-Chelators Capable of Disassembly of Amyloid Beta(1-42)–Zn(II)/Cu(II) Aggregates via Zn(II)/Cu(II)-chelation. [*Org. Biomol. Chem.* 2016, 14, 4640-4653.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/OB/C6OB00613B)
+
 ______________________________________________________________________________________________________________________________________
 Dixit, M.; Major, D. T.; Pal, S. Hydrogen adsorption in ZIF-7: A DFT and ab-initio molecular dynamics study. [*Chem. Phys. Lett.* 2016, 651, 178-182.](http://www.sciencedirect.com/science/article/pii/S0009261416301397) 
+
 ______________________________________________________________________________________________________________________________________
  Singh, V.; Dixit, M.; Kosa, M.; Major, D. T.; Levi, E.; Aurbach, D. Is it true that the normal valence-length correlation is irrelevant for metal-metal bonds? [*Chem. Eur. J.* 2016, 22, 5269-5276.](http://onlinelibrary.wiley.com/doi/10.1002/chem.201504161/full)
+ 
+ _____________________________________________________________________________________________________________________________________
+ Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. Phys. Chem. Chem. Phys. 2016, 18, 6799-6812. http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract 
+ 
+ _____________________________________________________________________________________________________________________________________
+ 
