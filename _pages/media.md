@@ -11,5 +11,5 @@ My [work](http://pubs.rsc.org/-/content/articlehtml/2017/cy/c7cy01810j) in the [
 {% include figure image_path="/assets/images/Cover_f.gif" %}
 
 ## Journal Cover 
-My work in the [Major Group](http://www.themajorgroup.org/) was selected to be higlighted on the front cover of Journal of The Electrochemical Eociety. You can find the cover [here] (http://jes.ecsdl.org/content/164/1.cover-expansion) 
+My work in the [Major Group](http://www.themajorgroup.org/) was selected to be higlighted on the front cover of Journal of The Electrochemical Eociety. You can find the cover [here](http://jes.ecsdl.org/content/164/1.cover-expansion) 
 {% include figure image_path="/assets/images/Cover_jes.gif" %}
