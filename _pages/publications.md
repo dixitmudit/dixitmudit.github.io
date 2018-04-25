@@ -1,11 +1,3 @@
----
-layout: single
-title: "Publications"
-excerpt: "History of my publications in various academic journals."
-permalink: /publications/
-date: 2018-4-23
-categories: pages
----
 
 ## 2018
 ----------------------------------------------------------------------------------------------------------------------------
