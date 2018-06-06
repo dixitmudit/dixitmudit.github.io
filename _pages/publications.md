@@ -10,11 +10,16 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2018
-(30) Weinreb, O; Singh, V; Dixit, M; Shmuel T.G.; Pitor, J; Fonseca, B; Major, D.T.; Fisher, B. M A Promising Drug Candidate for the Treatment of Glaucoma Based on a P2Y6-Receptor Agonist. (2018) Purinergic Signaling Accepted.
----------------------------------------------------------------------------------------------------------------------------------
-(29) Chakraborty, A; Dixit, M; Major, D.T. Accurate Cathode Properties of LiNiO2, LiCoO2, and LiMnO2 Using the SCAN Meta-GGA Density Functional.(2018), arXiv, arXiv:1805.00642
-----------------------------------------------------------------------------------------------------------------------------
-(28) Estes, J. W.; Dixit, M.; Mpourmpakis, G. Understanding the Gas Phase Chemistry of Alkanes with First-Principles Calculations. [*J. Chem. Eng. Data* (2018).](https://pubs.acs.org/doi/abs/10.1021/acs.jced.7b00992)
+
+(30) Estes, J. W.; Dixit, M.; Mpourmpakis, G. Understanding the Gas Phase Chemistry of Alkanes with First-Principles Calculations. [*J. Chem. Eng. Data* (2018).](https://pubs.acs.org/doi/abs/10.1021/acs.jced.7b00992)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+ (29) Chakraborty, A; Dixit, M; Major, D.T. Accurate Cathode Properties of LiNiO2, LiCoO2, and LiMnO2 Using the SCAN Meta-GGA Density Functional.(2018), arXiv, arXiv:1805.00642 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (28) Weinreb, O; Singh, V; Dixit, M; Shmuel T.G.; Pitor, J; Fonseca, B; Major, D.T.; Fisher, B. M A Promising Drug Candidate for the Treatment of Glaucoma Based on a P2Y6-Receptor Agonist. (2018) Purinergic Signaling Accepted.
 
 ----------------------------------------------------------------------------------------------------------------------------
  (27) Kallitsakis, M.G.,  Tancini, P. D., Dixit, M., Mpourmpakis, G., Lykakis, I. N., Mechanistic Studies on the Michael Addition of Amines and Hydrazines To Nitrostyrenes: Nitroalkane Elimination via a Retro-aza-Henry-Type Process. [*J. Org. Chem.*, 83, 1176–1184 (2018)](https://pubs.acs.org/doi/abs/10.1021/acs.joc.7b02637)
