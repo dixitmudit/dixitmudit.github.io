@@ -1,3 +1,4 @@
+
 ---
 layout: single
 title: "Research Thrusts"
@@ -8,7 +9,8 @@ categories: pages
 
 ## 1. Computational Catalysis
 ### (i) CO<sub>2</sub> Conversion to high-value chemicals
-I apply Density Functional Theory, Ab-initio Molecular Dynamics and Atomistic Thermodynamics to understand and design effective catalysts for CO<sub>2</sub> reduction to high-value chemicals.  
+Persistent growth in global energy demands, depletion of fossil fuel resources and rising concentrations of atmospheric carbon dioxide (CO2) – a known greenhouse gas, are of great environmental concern. Innovative methods for CO2 capture, storage, and utilization are of marked interest for mitigating elevated levels of CO2 in the atmosphere. The utilization (chemical conversion) of CO2 for the production of high-value chemicals has gained tremendous research interest recently. Despite considerable work on catalyst interactions with CO2, kinetic limitations are still present in industrial processes that can utilize CO2 as a chemical feedstock. 
+I apply Density Functional Theory, Ab-initio Molecular Dynamics and Atomistic Thermodynamics to understand and design catalysts for CO<sub>2</sub> reduction to high-value chemicals.  
 {% include figure image_path="/assets/images/C7.png" %}
 #### Representative Publication:
 Dixit, M., Peng, X., Porosoff, M. D., Willauer, H. D., and Mpourmpakis, G., Elucidating the role of oxygen coverage in CO2 reduction on Mo2C. [*Catal. Sci. Tech.* 7, 5521-5529 (2017)](http://pubs.rsc.org/-/content/articlelanding/2017/cy/c7cy01810j/unauth#!divAbstract) **Featured on the front cover**
@@ -17,10 +19,10 @@ Olefins are important chemical building blocks for the production of a wide rang
 {% include figure image_path="/assets/images/Al2.png" %}
 ## 2. Electrochemical Energy Storage
 ### Rechargeable Li and Na ion Batteries 
-The excellent performance of lithium ion batteries (LIB) has led to a revolution in portable electronic devices, and nowadays LIBs are empowering electric vehicles (EVs). Among the various factors influencing the performance of LIBs, the positive electrode (cathode) material is arguably the most important component, as the nature of the cathode primarily controls the capacity and the stability of LIBs. Recently, lithiated transition metal (TM) oxides of the form Li[Ni<sub>x</sub>Co<sub>y</sub>Mn<sub>z</sub>]O<sub>2</sub> (i.e., NCM) emerged as a very promising family of cathode materials for LIB, and one of these materials NCM-333 (LiNi<sub>0.33</sub>Co<sub>0.33</sub>Mn<sub>0.33</sub>O<sub>2</sub>) is already commercialized. Despite the considerable research and commercialization of Li/NaNi<sub>y</sub>Mn<sub>y</sub>Co<sub>z</sub>O<sub>2</sub> systems, the molecular level understanding is very limited. However, the above information is essential to facilitate engineering of cathodes with higher energy density along with increased stability. To provide such information a comparative study of different Li rich NCMs is required. Using a combined experimental and first-principles theory approach we investigate these materials and the obtained findings are listed below: 
+The excellent performance of lithium ion batteries (LIB) has led to a revolution in portable electronic devices, and nowadays LIBs are empowering electric vehicles (EVs). Among the various factors influencing the performance of LIBs, the positive electrode (cathode) material is arguably the most important component, as the nature of the cathode primarily controls the capacity and the stability of LIBs. Using a combined experimental and first-principles theory approach we investigate lithiated metal oxide-based electrode materials.  
 
 #### Representative Publications:
-(1) Jun, D. W.; Kim, U. H.; Park, K. J.; Aurbach, D.; Major, D. T.; Goobes, G.; Dixit, M.; Leifer, N.; Wang, C.; Yan, P.; Ahn, D.; Kim, K. H.; Yoon, C. S.; Sun, Y. Y. Pushing the limit of layered transition metal oxide cathodes for high-energy density rechargeable Li ion batteries. [*Energy Environ. Sci.* (2018).](http://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee00227d/unauth#!divAbstract)
+(1) Jun, D. W.; Kim, U. H.; Park, K. J.; Aurbach, D.; Major, D. T.; Goobes, G.; Dixit, M.; Leifer, N.; Wang, C.; Yan, P.; Ahn, D.; Kim, K. H.; Yoon, C. S.; Sun, Y. Y. Pushing the limit of layered transition metal oxide cathodes for high-energy density rechargeable Li-ion batteries. [*Energy Environ. Sci.* (2018).](http://pubs.rsc.org/en/content/articlelanding/2018/ee/c8ee00227d/unauth#!divAbstract)
  {% include figure image_path="/assets/images/ewald.png" %}
  
 (2) Dixit, M.; Kosa, M.; Srur Lavi, O.; Markovsky, B.; Aurbach, D.; Major, D. T. Thermodynamic and Kinetic Studies of LiNi0.5Co0.2Mn0.3O2 as a Positive Electrode Material for Li-ion Batteries using First Principles. [*Phys. Chem. Chem. Phys.* 2016, 18, 6799-6812.](http://pubs.rsc.org/en/Content/ArticleLanding/2016/CP/c5cp07128c#!divAbstract)
@@ -40,7 +42,7 @@ The excellent performance of lithium ion batteries (LIB) has led to a revolution
  
  
 # 3. Enzyme Simulations: Chemical Control in Terpene Synthases:
-Terpene cyclases catalyze the highly stereospecific molding of polyisoprenes into terpenes, which are precursors to most known natural compounds. The isoprenoids are formed via intricate chemical cascades employing rich, yet highly erratic, carbocation chemistry. It is currently not well understood how these biocatalysts achieve chemical control. We illustrated the catalytic control exerted by terpene synthases, and in particular, we discover main features that could be general catalytic tools adopted by other terpenoid cyclases.
+Terpene cyclases catalyze the highly stereospecific molding of polyisoprenes into terpenes, which are precursors to most known natural compounds. The isoprenoids are formed via intricate chemical cascades employing rich, yet highly erratic, carbocation chemistry. It is currently not well understood how these biocatalysts achieve chemical control. We illustrated the catalytic control exerted by terpene synthases, and in particular, we discover main features that could be general catalytic tools adopted by terpenoid cyclases.
 ### Representative Publications:
 {% include figure image_path="/assets/images/JACS.png" %}
 1. Dixit. M; Weitman, M; Gao, J; Major, D.T. Chemical Control in the Battle against Fidelity in
