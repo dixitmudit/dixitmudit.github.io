@@ -10,6 +10,7 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2018
+(31) \textbf{29.}	Chakraborty, A.; \textbf{Dixit, M.}; Major; D.T., Predicting the properties of cathodes for lithium-ion batteries via the Strongly Constrained and Appropriately Normed density functional method \textit{ npj Computational Materials - Nature, (Accepted)}, \textbf{2018}.\newline
 
 (30) Estes, J. W.; Dixit, M.; Mpourmpakis, G. Understanding the Gas Phase Chemistry of Alkanes with First-Principles Calculations. [*J. Chem. Eng. Data* (2018).](https://pubs.acs.org/doi/abs/10.1021/acs.jced.7b00992)
 
