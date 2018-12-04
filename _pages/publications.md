@@ -10,15 +10,25 @@ toc_label: "Years"
 toc_icon: "columns"
 ---
 ## 2018
-(31) \textbf{29.}	Chakraborty, A.; \textbf{Dixit, M.}; Major; D.T., Predicting the properties of cathodes for lithium-ion batteries via the Strongly Constrained and Appropriately Normed density functional method \textit{ npj Computational Materials - Nature, (Accepted)}, \textbf{2018}.\newline
 
-(30) Estes, J. W.; Dixit, M.; Mpourmpakis, G. Understanding the Gas Phase Chemistry of Alkanes with First-Principles Calculations. [*J. Chem. Eng. Data* (2018).](https://pubs.acs.org/doi/abs/10.1021/acs.jced.7b00992)
+
+(32) Kostetskyy, P; Carly, N;Dixit, M; Mpourmpakis, G. Understanding Alkane Dehydrogenationthrough Alcohol Dehydration onγ−Al2O3(Industrial & Engineering Chemistry Research, Accepted)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
- (29) Chakraborty, A; Dixit, M; Major, D.T. Accurate Cathode Properties of LiNiO2, LiCoO2, and LiMnO2 Using the SCAN Meta-GGA Density Functional.(2018), arXiv, arXiv:1805.00642 
- 
- ------------------------------------------------------------------------------------------------------------------------------
+(31) Dixit, M; Kostetskyy, P; Mpourmpakis, G. Structure-Activity Relationships in Alkane Dehy-drogenation onγ−Al2O3: Site-Dependent Reactions(ACS Catalysis,2018, DOI: 10.1021/ac-scatal.8b03484).
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+(30) Chakraborty, A.; Dixit, M.; Major; D.T., Predicting the properties of cathodes for lithium-ion batteries via the Strongly Constrained and Appropriately Normed density functional method. npj Computational Materials - Nature, (Accepted)}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+(29) Estes, J. W.; Dixit, M.; Mpourmpakis, G. Understanding the Gas Phase Chemistry of Alkanes with First-Principles Calculations. [*J. Chem. Eng. Data* (2018).](https://pubs.acs.org/doi/abs/10.1021/acs.jced.7b00992)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
  
  (28) Weinreb, O; Singh, V; Dixit, M; Shmuel T.G.; Pitor, J; Fonseca, B; Major, D.T.; Fisher, B. M A Promising Drug Candidate for the Treatment of Glaucoma Based on a P2Y6-Receptor Agonist. (2018) Purinergic Signaling Accepted.
 
